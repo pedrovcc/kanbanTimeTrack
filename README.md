@@ -1,4 +1,4 @@
-# stime_strack
+# kanban_time_track
 
 A new Flutter project.
 
